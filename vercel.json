@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "env": {
+    "SHOPIFY_CLIENT_ID": "bc670a8629d56a8cc9d049b481587ea3",
+    "SHOPIFY_CLIENT_SECRET": "@shopify_client_secret",
+    "SHOPIFY_REDIRECT_URI": "@shopify_redirect_uri",
+    "ADMIN_SECRET": "@admin_secret"
+  }
+}
