@@ -8,7 +8,7 @@ const SCOPES = [
   'read_inventory','read_price_rules','read_discounts','read_draft_orders',
   'read_fulfillments','read_shipping','read_locations','read_marketing_events',
   'read_themes','read_content','read_reports','read_checkouts',
-  'read_customer_events','read_channels','read_markets','read_metaobjects',
+  'read_customer_events','read_channels','read_metaobjects',
   'read_online_store_pages','read_publications','read_product_listings'
 ].join(',');
 
